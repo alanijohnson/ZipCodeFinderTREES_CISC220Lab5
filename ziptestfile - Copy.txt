@@ -1,0 +1,26 @@
+Zip	City	State	Abbr.	County	Long	Lat	
+31191	Atlanta	Georgia	GA	Fulton	-84.474	33.8444	
+28290	Charlotte	North Carolina	NC	Mecklenburg	-80.8042	35.26	
+75323	Dallas	Texas	TX	Dallas	-96.7776	32.7673	
+80279	Denver	Colorado	CO	Denver	-104.408	39.7388	
+50364	Des Moines	Iowa	IA	Polk	-93.5722	41.6727	
+79953	El Paso	Texas	TX	El Paso	-106.3	31.6948	
+46896	Fort Wayne	Indiana	IN	Allen	-85.0707	41.0938	
+76196	Fort Worth	Texas	TX	Tarrant	-97.2915	32.7714	
+93765	Fresno	California	CA	Fresno	-119.64	36.7464	
+77248	Houston	Texas	TX	Harris	-95.4342	29.834	
+90174	Los Angeles	California	CA	Los Angeles	-118.299	33.7866	
+40298	Louisville	Kentucky	KY	Jefferson	-85.6768	38.189	
+38194	Memphis	Tennessee	TN	Shelby	-89.9715	35.2017	
+33257	Miami	Florida	FL	Miami-Dade	-80.4582	25.5584	
+70179	New Orleans	Louisiana	LA	Orleans	-89.8826	30.033	
+10160	New York City	New York	NY	New York	-73.9772	40.7808	
+73193	Oklahoma City	Oklahoma	OK	Oklahoma	-97.4075	35.5514	
+85078	Phoenix	Arizona	AZ	Maricopa	-112.187	33.2765	
+15286	Pittsburgh	Pennsylvania	PA	Allegheny	-80.0248	40.4344	
+94278	Sacramento	California	CA	Sacramento	-121.444	38.3774	
+92186	San Diego	California	CA	San Diego	-116.846	33.0169	
+94163	San Francisco	California	CA	San Francisco	-122.728	37.7848	
+98471	Tacoma	Washington	WA	Pierce	-122.113	47.0662	
+33681	Tampa	Florida	FL	Hillsborough	-82.4388	27.872	
+20074	Washington	District of Columbia	DC	District of Columbia	-77.0146	38.8933	
